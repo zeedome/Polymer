@@ -1,0 +1,20 @@
+{
+  "name": "Polymer_Tutorial",
+  "authors": [
+    "zeedome <32031509+zeedome@users.noreply.github.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.2.0"
+  }
+}
